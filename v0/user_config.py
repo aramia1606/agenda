@@ -16,11 +16,11 @@ config = {
     "format_doc": Orientation.A5,
     "orientation": Landscape.PORTRAIT,
     "couleur_papier": BgColor.BEIGE.value[1],
-    "couleur_dominante": "#146698",
+    "couleur_dominante": "#B74271",
 
     # Polices
     "police_principale": PrincipalFont.ARIAL,
-    "police_secondaire": "Helvetica",
+    "police_secondaire": "ARIAL",
 
     # Options avancées
     "taille_cases": "moyenne",
@@ -29,12 +29,12 @@ config = {
     "marges": "min",
 
     # Nouveaux choix
-    "vue_principale": ViewMode.JOURNALIERE,
+    "vue_principale": ViewMode.JOURNALIERE, # une page par semaine
     "semaine_1_page": True,
     "debut_semaine": WeekStart.LUNDI,
     "plage_horaire": [6,22],
     "decoupage_horaire": TimeSlot.TRENTE_MIN,
-    "todo_list_quotidienne": True,
+    "todo_list_quotidienne": True, #mettre des petites to do 
     "espace_priorites": True,
     "vue_mensuelle_recap": True,
     "page_annuelle": True,
@@ -46,7 +46,7 @@ config = {
         "pro": "#FF5733",
         "perso": "#33FF57",
         "etudes": "#3357FF"
-    },
+    }, # Habits tracker chaque semaine ( 4)
     "suivi_habitudes": True,
     "suivi_budget": True,
     "suivi_sport_sante": True,
@@ -55,7 +55,7 @@ config = {
     "planification_annuelle": True,
     "index_personnalisable": True,
     "renvoi_pages": True,
-    "pages_notes_libres": True,
+    "pages_notes_libres": True, #  <====
     "revue_hebdomadaire": {
         "structurée": True,
         "sections": ["réflexion", "planification", "gratitude"]

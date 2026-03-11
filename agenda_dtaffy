@@ -1,0 +1,57 @@
+from reportlab.lib.pagesizes import A5, A4
+from reportlab.lib.units import cm
+from reportlab.pdfgen import canvas
+from enum import Enum
+import calendar
+
+nom_fichier= 'calendrier_Stef.pdf'
+chossen_mont= [4,5,6,7,8,9,10,11,12,1,2,3]
+LARGEUR, HAUTEUR = A5
+
+themes = { 
+    "anniv1" : ("#f4eeec", "#f4eeec", "#e8b3b2", "#f1d0b7", "#c08c63"),
+    "amour": ("#C00645", "#D05C65", "#E1848C", "#E7CDCE"),
+    "ocean" : ("#285260", "#548BC9", "#B4D7D8","#E0D7CF", "#AB9072"),
+    "arbre_fleurs" :("#BFDDE6","#F6BCDD", "#F4e7A1", "#CDE8D3", "#EBD9B5"),
+    "arc-en-ciel" : ("#FA5367","#F9AF64", "#F9EA69" ,"#B5D87C","#44C8EE", "#4A68D8", "#8349D1"),
+    "coquelicot" : ("#61700B",  "#4C500A", "#F20505", "#BF0404", "#730202", "#4B1D0D" ),
+    "soul_pixar": ("#a39ae9", "#ddc0f0","#8fc8cf", "#66a1ed", "#7366d0" ),
+    "science": ("#FBF270" ),
+    "sunny_mountain": ("#C3E0EE", "#2C97B9", "#2E4511", "#769009", "#E2A91A"),
+    "back_to_school" : ("#FF96C1", "#FF9D3C", "#E4D256", "#66D2C5", "#64D3C7"  ),
+    "halloween" : ("#DC5DIO","#DOB88D","#746B2A", "#46374B",  "#222023") ,
+    "noel"  : ("#616852","#78211E", "#BB9771", "#BEB3AC")
+}
+
+from reportlab.lib.pagesizes import A5, A4
+from reportlab.lib.units import cm
+from reportlab.pdfgen import canvas
+from enum import Enum
+import calendar
+
+nom_fichier= 'calendrier_Stef.pdf'
+chossen_mont= [4,5,6,7,8,9,10,11,12,1,2,3]
+LARGEUR, HAUTEUR = A5
+
+themes = { 
+    "anniv1" : ("#f4eeec", "#f4eeec", "#e8b3b2", "#f1d0b7", "#c08c63"),
+    "amour": ("#C00645", "#D05C65", "#E1848C", "#E7CDCE"),
+    "ocean" : ("#285260", "#548BC9", "#B4D7D8","#E0D7CF", "#AB9072"),
+    "arbre_fleurs" :("#BFDDE6","#F6BCDD", "#F4e7A1", "#CDE8D3", "#EBD9B5"),
+    "arc-en-ciel" : ("#FA5367","#F9AF64", "#F9EA69" ,"#B5D87C","#44C8EE", "#4A68D8", "#8349D1"),
+    "coquelicot" : ("#61700B",  "#4C500A", "#F20505", "#BF0404", "#730202", "#4B1D0D" ),
+    "soul_pixar": ("#a39ae9", "#ddc0f0","#8fc8cf", "#66a1ed", "#7366d0" ),
+    "science": ("#4B514D", "#A1A7A3" , "#D3DDDF" ,"#AAC0D7", "#6D879E" ),
+    "sunny_mountain": ("#C3E0EE", "#2C97B9", "#2E4511", "#769009", "#E2A91A"),
+    "back_to_school" : ("#FF96C1", "#FF9D3C", "#E4D256", "#66D2C5", "#64D3C7"  ),
+    "halloween" : ("#DC5DIO","#DOB88D","#746B2A", "#46374B",  "#222023") ,
+    "noel"  : ("#616852","#78211E", "#BB9771", "#BEB3AC")
+}
+
+mois =["janvier", "fevrier", "mars", "avril", "mai", "juin", 
+             "juillet", "aout", "septembre", "octobre", "novembre", "decembre"]
+
+if __init__ = "__main__":
+    theme_mois = (zip(mois, list(themes)))
+    print(f"{list(theme_mois)=} \n ")
+
