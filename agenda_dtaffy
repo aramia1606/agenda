@@ -48,7 +48,3 @@ themes = {
 mois =["janvier", "fevrier", "mars", "avril", "mai", "juin", 
              "juillet", "aout", "septembre", "octobre", "novembre", "decembre"]
 
-if __init__ = "__main__":
-    theme_mois = (zip(mois, list(themes)))
-    print(f"{list(theme_mois)=} \n ")
-

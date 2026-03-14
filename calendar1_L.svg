@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148.6145mm"
+   height="210.3821mm"
+   viewBox="0 0 561.69259 795.14495"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="calendar1_L.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.48790368"
+     inkscape:cx="217.256"
+     inkscape:cy="456.03263"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       id="grid13"
+       units="mm"
+       originx="-628.62437"
+       originy="-2.6053724"
+       spacingx="3.7795276"
+       spacingy="3.7795276"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:page
+       x="8.0868858e-14"
+       y="-1.3175734e-15"
+       width="561.69257"
+       height="795.1449"
+       id="page173"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="561.95477"
+       y="-0.67667675"
+       width="557.07733"
+       height="795.17468"
+       id="page174"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="200.7766"
+       y="68.048439"
+       width="0.67374694"
+       height="28.297373"
+       id="rect24" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-628.62442,-2.6053726)"
+     style="display:inline">
+    <rect
+       style="opacity:0.541;fill:#ffffff;fill-opacity:0.123506;stroke-width:36.6509;stroke-linecap:round"
+       id="rect175"
+       width="791.08051"
+       height="566.92914"
+       x="924.55511"
+       y="38.971416"
+       ry="11.272377" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Calque 2"
+     transform="translate(-628.62442,-2.6053726)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#434343;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect175-6"
+       width="791.08051"
+       height="566.92914"
+       x="924.12769"
+       y="40.341423"
+       ry="11.272377" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7539px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke-linecap:round;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       x="729.93054"
+       y="163.09782"
+       id="text73-9"
+       inkscape:label="calendar_XS"
+       transform="scale(0.95236889,1.0500133)"><tspan
+         sodipodi:role="line"
+         id="tspan65-5"
+         x="729.93054"
+         y="163.09782"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round">Lu  Ma  Me  Je  Ve  Sa  Di</tspan><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="179.6823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan66-4">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="196.26678"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan67-3">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="212.85126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan68-1">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="229.43575"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan69-2">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="246.02022"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan70-3">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="262.60471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan71-3">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="279.18918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan72-4" /><tspan
+         sodipodi:role="line"
+         x="729.93054"
+         y="295.77365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan73-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7539px;line-height:1.4;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke-linecap:round;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       x="729.47137"
+       y="315.55627"
+       id="text73-4"
+       inkscape:label="calendar_XS"
+       transform="scale(0.95236889,1.0500133)"><tspan
+         sodipodi:role="line"
+         id="tspan65-2"
+         x="729.47137"
+         y="315.55627"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round">Lu  Ma  Me  Je  Ve  Sa  Di</tspan><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="332.14075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan66-7">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="348.72522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan67-7">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="365.30972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan68-9">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="381.8942"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan69-3">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="398.47867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan70-1">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="415.06314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan71-9">XX  XX  XX  XX  XX  XX  XX</tspan><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="431.64764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan72-8" /><tspan
+         sodipodi:role="line"
+         x="729.47137"
+         y="448.23212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;fill-opacity:1;stroke-width:0.37795276;stroke:#434343;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+         id="tspan73-6" /></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.89229;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 925.50453,229.99615 790.13287,-2.72674 v 0 0"
+       id="path196" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.89308;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 924.12769,133.51464 1715.205,132.78518"
+       id="path197" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.89306;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 924.12933,323.80434 790.55727,-2.04338 v 0"
+       id="path198" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.89729;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1718.7325,416.25128 -794.60104,3.35181 v 0"
+       id="path199" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.88551;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 924.55511,510.7405 H 1714.6919"
+       id="path200" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.88976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1597.2754,38.294739 V 605.22388"
+       id="path201" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.88976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1483.8895,38.294739 V 605.22388"
+       id="path202" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.88976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1370.5037,38.294739 V 605.22388"
+       id="path203" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.88976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1150.0166,38.971447 1149.088,607.27055"
+       id="path204" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.88976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1035.3206,38.971416 V 605.90056"
+       id="path205" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#434343;stroke-width:1.88976;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1257.1179,38.294744 V 605.22388"
+       id="path206" />
+  </g>
+</svg>
