@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="148mm" height="63mm"
+     viewBox="0 0 148 63"
+     version="1.1"
+     id="svg1">
+  <defs id="defs1" />
+  <g id="layer1">
+    <image href="calendarXS122026.svg"
+           x="0" y="0"  width="148" height="21" />
+    <image href="calendarXS13.svg"
+           x="0" y="21" width="148" height="21" />
+    <image href="calendarXS1.svg"
+           x="0" y="42" width="148" height="21" />
+  </g>
+</svg>
